@@ -5,24 +5,7 @@
 
 
 * Introduction
-** Definition of Genitive Construction
-** Statement of the Problem
-** Research framework
-** Objective of the article
 
-* Possessive Genitives
-** Alienable Possessive Genitives
-** Inalienable Possessive Genitives
-** Possessive Genitives Plus Adjectives
-** Possessive Genitives Plus these, that, articles
-** Syntactic and Morphological Possessive Genitives
-
-* Descriptive Genitives
-** Introduction
-** Naming: Classifying Descriptive Genitives
-** Metaphorical Descriptive Genitives
-** Generic Descriptive Genitives
- 
 In this paper, I describe Afaan Oromoo Genitive Construction. In Afaan Oromoo, genitive constructions are marked in five ways:
 (1) A noun ending in long vowel is marked by null morpheme. For example,  in 'mana Jiraataa' the dependent (possessor) 'Jiraataa' has long final vowel;
 it doesn't show any change to indicate genitive construction. 
