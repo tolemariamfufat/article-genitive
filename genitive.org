@@ -6,12 +6,12 @@
 
 * Introduction
 
-In this paper, I describe Afaan Oromoo Genitive Construction. In Afaan Oromoo, genitive constructions are marked in five ways:
-(1) A noun ending in long vowel is marked by null morpheme. For example,  in 'mana Jiraataa' the dependent (possessor) 'Jiraataa' has long final vowel;
+In this paper, I describe Afaan Oromoo Genitive Construction. In Afaan Oromoo, genitive constructions marked in five ways:
+(1) A noun ending in long vowel marked by null morpheme. For example,  in 'mana Jiraataa' the dependent (possessor) 'Jiraataa' has long final vowel;
 it doesn't show any change to indicate genitive construction. 
-(2) If a noun ends with short vowel, genetive case is marked by lengthening the short vowel (Gragg, 1976: 183; Gobena et al, 2019); 
+(2) If a noun ends with short vowel, we mark genitive case by lengthening the short vowel (Gragg, 1976: 183; Gobena et al, 2019);
 For example, in mnana namaa 'a man's house', the short vowel of the nouns nama 'man' becomes long to indicate genitive construction. 
-(3) If a noun ends in consonant, the genitive case is marked by suffixation of -ii (Gobena et al, 2019). For example in 'warqii ilkaanii' 
+(3) If a noun ends in consonant, we mark the genitive case by suffixation of -ii (Gobena et al, 2019). For example in 'warqii ilkaanii'
 the noun ilkaan 'teeth' ends with /n/, to which -ii is suffixed. A noun that got its vowel long is interpreted as the possessor a noun that precedes it. 
 (4) The genitive can be made by placing the pronoun kan 'whome' between the head and the dependant (possessor) nouns; for example mana kan k'ottuu 'a farmers's
 house' (Gragg, 1976:183). In Meca dialect the pronoun kan is used for both masculine and feminine genders. But in Harar, Borena and Tullama dialects kan 
