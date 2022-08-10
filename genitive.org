@@ -1,0 +1,607 @@
+#+title: Genitive Construction in Afaan-Oromoo
+#+Author: Tolemariam Fufa Teso
+
+#+Subject: linguistics
+
+
+* Introduction
+** Definition of Genitive Construction
+** Statement of the Problem
+** Research framework
+** Objective of the article
+
+* Possessive Genitives
+** Alienable Possessive Genitives
+** Inalienable Possessive Genitives
+** Possessive Genitives Plus Adjectives
+** Possessive Genitives Plus these, that, articles
+** Syntactic and Morphological Possessive Genitives
+
+* Descriptive Genitives
+** Introduction
+** Naming: Classifying Descriptive Genitives
+** Metaphorical Descriptive Genitives
+** Generic Descriptive Genitives
+ 
+In this paper, I describe Afaan Oromoo Genitive Construction. In Afaan Oromoo, genitive constructions are marked in five ways:
+(1) A noun ending in long vowel is marked by null morpheme. For example,  in 'mana Jiraataa' the dependent (possessor) 'Jiraataa' has long final vowel;
+it doesn't show any change to indicate genitive construction. 
+(2) If a noun ends with short vowel, genetive case is marked by lengthening the short vowel (Gragg, 1976: 183; Gobena et al, 2019); 
+For example, in mnana namaa 'a man's house', the short vowel of the nouns nama 'man' becomes long to indicate genitive construction. 
+(3) If a noun ends in consonant, the genitive case is marked by suffixation of -ii (Gobena et al, 2019). For example in 'warqii ilkaanii' 
+the noun ilkaan 'teeth' ends with /n/, to which -ii is suffixed. A noun that got its vowel long is interpreted as the possessor a noun that precedes it. 
+(4) The genitive can be made by placing the pronoun kan 'whome' between the head and the dependant (possessor) nouns; for example mana kan k'ottuu 'a farmers's
+house' (Gragg, 1976:183). In Meca dialect the pronoun kan is used for both masculine and feminine genders. But in Harar, Borena and Tullama dialects kan 
+shows masculine while tan is used for feminine gender. For example, mana tan ishee 'her house'. 
+(5) Genitves of genitives which are not final genitives are in absolute form (Owens, 1985:104). For example, 
+
+a. mana namaa 'a man's house'
+b. mana nama Sudaan 'a sudanese house'
+
+The interpretation of Afaan Oromoo genitive construction where two nouns are involved is straightforward; but, if more than two nouns are involved 
+ambiguities arise. This means that if a genitive construction is 
+formed by three nouns, the second noun can be interpreted either as possessor (concerning the preceding noun) or as the possessed noun (concerning the 
+following noun). I hypothesize that a genitive construction that involves more than two nouns is a borrowed instance that lacks an established phrasal 
+pattern. These ambiguities are the source of public arguments. In the first part of this paper, I shall discuss problem areas of the topic by citing 
+examples from social media. Moreover, I shall discuss more complex examples of Afaan Oromoo genitive constructions by citing sample MA thesis titles. 
+In the second part, I shall discuss literature reviews on Afaan Oromoo genitive construction. The third part proposes solutions and concludes the paper. 
+
+There are  5 types of genitive construction. These are possessive, subjective, source, objective and descritptive 
+(https://www.eltconcourse.com/training/inservice/lexicogrammar/genitive.html). 
+
+
+Gebregziabher, K. (2012). The alienable-inalienable asymmetry: Evidence from Tigrinya. 
+In Selected Proceedings of the 42nd Annual Conference on African Linguistics (pp. 161-182).
+
+Genitive construction can be classified into two main categories; namely, possessive genitive and descriptive
+genitive constructions. Possessive genitives are further classifed into two main categries; these are alienable possession (ALP)
+and inalienable possession (IAP). ALP and IAP are mainly differentiated on the bases 
+of their corresponding semantic relationships. IAP forms a fixed semantic relationship between the possessor and the 
+possessee (Gebregziabher, 2012: 161). For example,
+
+The genitive construction usually associated to owenership of something. But, close investigation shows that
+genitive construction includes possession, source, origin and description. In Afaan Oromoo the genitive case is 
+is marked in five ways: 
+(1) By zero morpheme 
+(2) By lengthening the short final vowel of the possessor;  
+(3) By adding long vowel -ii to a possessor ending in consonant;  
+(4) By putting the pronoun kan/to between the head and the dependant (possessor) nouns;   
+(5) By applying dissimilation to genitves of genitives;
+
+
+The genitive case is often treated as possessive case. But all issues concening genitive case are not 
+explainable interms of possession. For example,
+
+1a. aarii-n   nam-icha-a     kolfa     dubartii   sana-af qab-u   guddaa-dha.
+    rage-NOM  man-DEF-POSS   laughter  woman.POSS that-to has-INF big-be
+    'The rage of the man towards laughter a woman is high.'
+    
+(1a) informs us about rage and laughter of two participants. Eventhough, the sentence is a gentive case it
+fails to explain the issue interms of possession because it is not likely we consider a rage and a laughter as 
+something one possesses. in aarii-n nam-icha-a 'the man's rage' the genitive is marked by lengtheing the final
+short vowel while in kolfa dubartii 'a woman's laughter' the gentive is marked by zero morpheme. 
+
+It is possible to express analytical aarii namicha and kolfa dubartii as in:
+2a. Nam-ich-i    aarii qab-a
+    man-DEF-NOM  rage  has-3MSS
+    'The man has rage.'
+
+2b. Dubartii-n kolfa     qab-d(t)i.
+    woman-NOM  laughter  has-3FSS
+    'A woman has laughter.'
+    
+    The following table shows variations of genitive meaning in Afaan Oromoo:
+    
+       Example          Hiika                     Type of genitive
+    a. Mana namaa       'man's house              possessive
+    b. Ergaa firaa      a relative's message      origin
+    c. Aarii nam-ichaa  the mans's rage           subjective
+    d. Hidhamuu ishee   her imprisonment          objective
+    e. mana qorichaa    medicine house            descriptive
+    
+As shown above there are five different types of genitive.     
+
+Inalienable possessions and alienable possessions.
+1a. gurra mucaa
+    ear   child
+    'a child's ear'
+    
+1b. abbaa  gurbaa
+    father boy
+    'a boy's father'
+    
+As different from IAP, ALP doesn't form a fixed semantic relationship between the possessor and the 
+possessee. The semantic relationship between the possessor and the possessee depend on the context (Gebregziabher, 2012: 161). 
+For example, 
+
+2.  mana    barsiisaa
+    house   teacher
+   'a teacher's house'
+    
+As shown in (2), there is no fixed semantic relationship between 'house' and 'teacher' because 'a teacher's house'
+can be interpreted as a house that a teacher bought, built, rented and so on. Some languages like Tigrinya make 
+a grammatical distinction between inalienable and alienable posssesions (Gebregziabher, 2012: 161); while others like Afaan Oromoo
+do not make a grammatical distiction between the two. 
+
+* Possessive
+
+Genitive case often employed to express possession (Greenlee,1950:68)
+Possessive genitive can be expressed either morphologically or syntactically. For example, 
+1a. mana Tolasaa
+1b. Tolasaan mana qaba
+2a. obboleessa Boontuu
+2b. Boontuun obboleessa qabdi.
+The above examples are possessive genitives. They are expressed morphologically and syntactically. 
+Possessive genitive is devided into two types: alienable and inalienable possessions.
+
+** Alienable possessions
+Alienable possessions refers to possessions which have not fixed semantic relationships between the 
+possessor and the possessed nouns. That is to say alienable possessions can freely change owenership. These
+includes materials such as car, house, computer, book, etc. We can say,
+3a. Jabeessaan mana qaba
+3b. mana Jabeessaa
+4a. Koortuun kitaaba qabdi
+4b. kitaaba Koortuu, etc
+
+Alienable genitive constructions are expressed sysntactically. These genitive constructions show possession. Possessive genitives are alienable genitives.
+
+** Inalienable genitive
+
+Inlienable genitives are possessive cases which can be expressed morphologically. As compared to these genitives, an inalienable genitives cannot 
+expresseed morphologically. For example,
+
+3a. Gaaddiseen refeensa dheeraa qabdi.
+3b. *rifeensa dheeraa Gaaddisee
+4a. Waariyoon ilkaan kaarruu qaba
+4b. *ilkaan kaarruu Waariyoo
+
+* The subjective genitive
+Genitive case can be designated as subjective genitive. In subjective genitive an action or idea is set forth
+as proceeding from the noun in the subject position (Greenlee,1950:68)
+The subjective genitive expresses about the nature of the subject of a sentence. It doesn’t refer to possession. The subjective genitive can be 
+expressed morophologically as well as syntactically as shown below:
+
+5a. Fayyisaan aare.
+5b. aarii Fayyisaa
+6a. Qananiisaan fiige
+6b. fiigicha Qananiisaa
+7a. Tolasaan mana ijaare.
+7b. Mana ijaarsa Tolasaa
+8a. Giiloon muka yaabe
+8b. Muka yaabbii Giiloo
+
+
+9a. Boontuun boqqolloo cabsite.
+9b. Boqqolloo cabsaa Boontuu
+
+* Source/Origin
+Source genitive refers to the origin of a noun. Source genitives can be expressed both morphologically as well as syntactically. 
+
+7a. buna Wallaggaa
+7b. Wallagga buna biqilcha
+8a. murtee ummataa
+8b. ummatni murtee murteessa.
+
+* Objective genitive
+In objective genitive "the idea or action is thought of as being directed toward the noun in the genitive case"(Greenlee,1950:68).
+As an indication of the objective genitive, in Afaan Oromoo, the head noun is a derivative of a passive verb. 
+Because of this fact, the passive morpheme -am- is attached to the stem of the head noun as shown in (9a & 9b) below.
+
+Ojejective genitive refers to the nature of the object of a sentence. This type of genive construction can be expressed morophologically as well as 
+syntactically as shown below:
+
+9a. Qab-am-uu ishee
+9b. rukut-am-uu isaa
+
+As shown in (9a) and (9b), qab-am-uu and rukut-am-uu are head nouns of the objective genitives. In bothe cases
+the passive marker -am- is suffixed to the correspoinding stems of the head nouns to indicate objective genitive.
+
+Head nouns of genitive case which are derivatives of the middle-passive stems of intransitives can be treated as either as 
+subjective or objective genitives depending on the context they are used.
+
+10a. gurbaa-n gudda-at-e
+10b. gudd-ach-uu gurbaa
+
+11a. gurbaa-n fir-oom-e
+11b. fir-oom-a gurbaa
+
+The subjective or objective genitive interpretation emanates from the underlying meaning of middle verbs (Tolemariam, 2009).
+Yet, middle verbs of transitive verbs have active interpretaion. Therefore, head nouns of genitive case which are 
+derivatives of transitive middles are interpreted as subjective genitives. 
+
+12a. gurbaan gurgur-at-e
+12b. gurgur-at-naa gurbaa
+13a. gurbaan mur-at-e
+13b. mur-at-naa gurbaa
+14a. gurbaan gurgur-at-e
+14b. gurgur-at-naa (gurgurannaa) gurbaa
+
+* Genitive of Source
+A source can be expressed by a genitive case (Greenlee,1950:69). 
+
+15a. caama bonaa 'Summer draught', summer is considered as a source of draught
+15b. lolaa gannaa 'Winter flood', Winter is considered as a source of flood
+
+* Genitive of Material
+"The material of which a thing is made may also be expressed by the genitive case (Greenlee,1950:69).
+
+16a. siree sibiilaa 'iron bed', a bed made up of an iron
+16b. waxii foonii 'beef wet', wet' made of beef
+
+* Partitive Genitive
+The partitive genitive is "the genitive case naming the whole from which only a part
+is to be considered" (Greenlee,1950:69). 
+In English grammar, a partitive is a word or phrase (such as "some of" or "a slice of") that indicates 
+a part or quantity of something as distinct from a whole. A partitive is also called "partitive noun" 
+or "partitive noun phrase" and is from the Latin "partitus," meaning "relating to a part."
+Partitives can appear before mass (or noncount) nouns as well as count nouns. Although most partitive 
+constructions refer to a quantity or amount, some are used to indicate quality or behavior 
+("the kind of teacher who...").  
+17a. halkan walakkaa 'middle of the night'
+17b. barii Sanbataa 'dawn of the Sunday'
+18a. lixa gannaa, lixa Birraa
+18b. baha gannaa, baha Bonaa
+
+* The Descriptive genitive
+
+Rosenbach, A. (2006). Descriptive genitives in English: a case study on constructional gradience. English Language & Linguistics, 10(1), 77-118.
+ (https://www.cambridge.org/core/journals/english-language-and-linguistics/article/descriptive-genitives-in-english-a-case-study-on-constructional-gradience/7B0AD52F3E002B99300A2EE9E805577B)
+
+1. how do descriptive genitives differ from possessive genitives?
+2. Are descriptive genitives syntactic, morphological or compounds?
+3. How do descriptive genitives differ from N + N sequences?
+
+Possessive genetives expands nominals into noun phrases. Semantically, possessive genitives specify (in)definiteness and establish
+reference within the NP. 
+In Afaan Oromoo the head can be separately determined by definite article or by other reference tracking devices:
+1a. -kitaaba Guyyoo
+1b. -Kitaabicha Guyyoo  (*the Johon's book)
+
+2a. -kitaaba namichaa 
+2b. -kitaaba namichaa kana (*this the man's book)
+
+Semantically, the possessor Guyyoo in (1a) functions like the definite article, specifying the referent of the NP. 
+In this example Guyyoo specifiees whose book it is, namely Guyyoo's. From a cognitive-pragmatic and semantic point of view
+the possessor can be viewed as an 'anchor' that narrows down the referent of the NP (Rosenbach, 2006:80). 
+
+In Afaan Oromoo the possessor can be postmodified and can be headed by a final determiner (note that English possessor can be pre- as well as 
+postmodified 
+and can be headed by an initial determiner):
+3a. kitaaba namicha guddaa [the big man]NP's book
+3b. kitaaba namicha kaleessa argitee [the man you saw yesterday]NP's book
+
+Genitive constructions in which the possessor functions as a determiner have NP status and they denote a specific
+entity. In 'kitaaba namichaa' the noun 'kitaaba' is a specific book. 
+
+In contrast the dependant in descriptive genitives is not an NP but usually a noun. 
+4a. mana dhagaa
+4b. *mana dhagichaa
+4c. manicha dhagaa
+In (4b) the definite article -icha- can only belong to the dependant 'dhagaa' and cannot belong the the head 'mana'. Semantically, (4b) is different 
+from (4a). 
+Therefore, the depandant is a nominal rather than a full NP in such cases can be seen from the ungrammaticality of 
+(4b). This shows that the dependent cannot have a determiner of its own. In (4c) -icha belongs to the head 'mana'. That is to say, the final determiner 
+goes with the head (and not
+the dependent). Therefore descriptive genitives are themeselves not full NPs but nouns or nominals and, in contrast to
+determine genitives, they denote properties and not specific entities. 
+
+Semantically, the dependent in descriptive genitives contributes to the denotation of the head noun, not specifying
+in (4a) whose house it is (as in a corresponding determiner genitive) but rather what type of house. As such, the 
+the dependant has a classifiying function in such genitives. As a classifier, the dependent is not referential and
+does not refer to a specific referent. Not that in 'mana dhagaa' reference is not made to specific stone 'dhagaa' 
+but to stone 'dhagaa' in general. 
+
+The semantic difference between determiner genitives and descriptive genitives as discussed above are reflected in 
+different positions in Afaan Oromoo noun phrases. Word order in the noun phrase is iconically determined in that any element contributing 
+to the denotation of the head noun is positioned adjacent to the head, while anything contributing to the reference
+of the noun phrase will be most distantly located away from the head noun (p,81). 
+
+5a. hoolaa foonii
+5b. *hoolaa foonichaa
+5c. hoolaa namicha sanaa 
+5d. hoolaa adii namicha sanaa
+(5a) shows word order of descriptive genitives. As shown in (5b) descriptive genitives prohibit the expansion, prefer
+the dependant to be adjacent to the head. (5c) shows determiner genitives which allows expansion of the noun phrase.
+In (5c) the determiner -icha and the 'sana' are added to the noun 'nama' which specifies sheep 'hoolaa'. Further, 
+the adjective 'adii' is inserted between the possessor and the head noun to expand the noun phrase to (5d) is determiner 
+genitive construction.(p,82).
+
+A descriptive genitive can be classifying, metaphorical, and generic one. It specifies another noun. 
+6. Digrii Lammaffaa
+7. Gulantaa lammaffaa
+8. Itti aanaa Ministeeraa
+
+
+ARE DESCRIPTIVE GENITIVES SYNTACTIC PHRASES OR COMPOUNDS?
+
+(a) Coordination test
+
+Rosenbach, A. (2006: 83) gives three criterion to test if descriptive possessors are syntactic or cmpound. 
+First criterion is Coornation test. In Afaan Oromoo, coordination of dependant is common with descriptive genitives. 
+9a. foon hoolaa
+9b. foon reettii
+9c. foon hoolaafi reettii
+10a. mana dhagaa
+10b. mana mukaa
+10c. dhagaa manaa
+10d. dhagaafi muka manaa
+11a. reettii foonii
+11b. hoolaa foonii
+11c. reettiifi hoolaa foonii
+12a. hoolaa hormaataa
+12b. reetti hormaataa
+12c. reettiifi hoolaa hormaataa
+
+
+Because compounds do not allow a third element to be inserted between theme, these examples indicte taht descriptive genitives are syntactic phrases 
+and not compounds. 
+
+(b) Modification of the dependent
+
+If an N + N construction is a compound, then it should not be possible to separtely modify the first noun. 
+
+13a. foon hoolaa
+13b. foon hoolichaa
+
+
+In fact it should be noted that the dependent in descriptive genitives gives a different interpretation after modification.
+In hoolaa'sheep' is not a determiner, it expresses a type, not specifying foon 'meat'. 
+
+(c) Modification of the head
+
+As Rosenbach, A. (2006: 85) says, the strongest test for phrasehood is the ability of a modifier to intervene between
+the dependent and the head noun as shown below:
+14a. foon hoolaa
+14b. foonicha hoolaa
+15a. boojjitoo marqaa
+15b. boojjitoowwan marqaa
+
+As shown above -icha and -oowwan are added to the head by intervening between the dependent and the head noun
+to rule out compound status. 
+
+HOW DO DESCRIPTIVE GENITIVES DIFFER FROM N + N SEQUENCES? (p, 89) (there is no N + N) in Afaan Oromoo
+
+Descriptive genitives shown so far are known as classifying genitives. These genitives are said to be the prototypical cases 
+Rosenbach, A. (2006: 91). 
+
+* TYPES OF DESCRIPTIVE GENITIVES
+
+** Classifying Genitives
+
+Rosenbach, A. (2006: 92) argues there are three different functions of descriptive genitives: classifying, metaphorical and generic ones. 
+Classifying genitives are the ones usually referred to in the literature as 'descriptive genitives' (p, 92). These genitives
+are used to name certain objects and they can convey various degrees of lexicalization, from completely oqpaque expressions
+to fully semantically transparent ones (p, 92). 
+16a. ija bunaa
+16b. gumaa garbuu
+16c. arraba ibiddaa
+16d. guyyaa dubartootaa, Seera Makkoo Billii, 
+16e. harbuu Bantii
+16f. buqqee seexanaa (sheexanaa)
+(it includes, idiomatic expressions, plant names, insect names, named after person (p, 92). Product names, others
+: girl's school, writers block, spider's web ...etc (p, 93)
+
+In this naming function descriptive genitives are those that most clearly correspond to the term 'classifying genitives' as their basic
+function is type restriction. However, thhis only holds for semantically endocentric cases, where the dependent 
+clearly restricts the denotation of the head noun. In these cases the meaning of the head is the meaning of the 
+whole genitive NP, i.e. St Valentine's day designates a certain day, women's undrwea a certain type of underwear
+and smoker's cough a certain typeof cough, while a baby's head is not a type of head but a steak and kidney pudding.
+Similarly in (33d) the meaning of the whole genitive construction is not deducible compositionally from the meaning of the 
+head and the dependent attribute.. Rather, in these cases teh descriptive genitive refers to a complete mess (dog's breakfast) or to a specific type of balcony 
+(widow's walks). While they are not as such transparent, knowledge of the etymology of these idiomatic expressions makes them fully
+compositional in the figurative world, so to speak. For example, the term widow's walks (for porches on the roof)
+goes back to the fact (or rather legend?) that the wives of seafarers used to to climb up there to watch out for the 
+return of their husbands. Note, however, that even in the transparent cases (33e-g) the meaning of calassifying genives
+is much more restrictive than in a corresponding determiner genitive. Electrician's tape, for example, describes a specific
+type of tape, while a corresponding deterinmer genitive ([the elecrician's]tape) could mean various things: the 
+tape the electrician possesses, uses, wants to have, dreams of, or whatever. It is in the nature of possession to allow
+for all these meanings. As the function of the classifying genitives in (33) is to uniquely designate a specific object, it is 
+clear that not all these possessive  meanings carry over and taht , so to speak, one possessive meaning gets 'frozen' in these cases. 
+It is this 'freezing' of meaning which makes them so prone to undergo lexicalization and acquire lexeme  status. It is 
+presumably for this reason that Huddleston & Pullum (2002: 470) regard this type fo genitive as 
+'a somewhat unproductive category'. They note, for example, taht while we can have a summer's day and a winter's day,
+a spring's day or an autumn's day are very questinable (they mark the latter two with a?). It is tru that the last two expressions are far less common than
+the first two. (p, 93). 
+
+Syntactic processes are by definition productive; it is usually only in the domain of word formation that the notion
+of productivity is evoked at all. As argued above descriptive genitives (in the sense of the calassifying genitive discussed here0
+can be syntactic phrases, and as such they should also be 'productive'. However, even when perceiving classifying genitives
+as being formed by the rules of word fromation, productivity is usually defined as the ability of a form to coin new
+expressions (p,94). That is, what matters is not how often a particular collection is used, but whether it is possible to coin
+it in the first place. In the examples above, it is the actual frequency of use that makes the difference. Thus, notice
+that both 'a spring's day and 'an autumn's day' can be used perfectly well to refer to a certain type of day; it is just
+that for seme reason they don't happen to be particularly frequent ... p, 94. While frequency of use may give us an indication
+as to the degree of lexicalization, it doesn't tell us anything about the productivity of the form/construction. 
+
+Note that, in general, new classifying genitives can be easily formed on the spot wheneve we perceive something as defining a type.
+Classifying genitives are fully productive (p, 94). 
+
+
+** Metaphorical genitives
+
+Another type of descriptive genitives is used to describe an object, experience, state etc. in terms of another (p, 94). 
+one. 
+
+17. akka dhala sooressaa (meeshaa mi'aawaa bituu jaalata)
+18. hamma baallee shimbirroo hin'ulfaatu
+19. 
+
+In (37a) the weight fo a swan's feather is used to describe the (light) weight of a person. In (37b) the well-known sound
+of a a dentist's drill characterizes the (ghastly) sound of a person's voice. The strength/intensity of the wind 
+is compared in (37c) to a prize fighter's blow. In (37d) the inner state of a person is described by means of the image
+of a child's inflatable toy. Note that in this last example the whole context is already in the metaphorical world:
+a word cannot lift a person literally. Rather, what is meant is that the word raises the person's spirits/mood, and 
+the way to get this image to the reader is to stay in this 'lifting' - metaphor and compare it with an inflatable toy
+(which can easily be lifted). The face in (37e) is compared to a child's pink ballon from which most of the air has escaped, 
+i.e. this image reinforces the description of the face as puffed and crumpled, and the colour of the ballon (pink)
+resembles the colour of the face. While in the examples in (37) the comparison is always made explicitly, most typically
+by expressions such as as, like , it reminded x of (p, 95). 
+
+
+In (38a) the person gives a yowl typical of cats. The person in (38b) does not of course literally have a puppy's 
+eyelashes, but eyelashes that look like those of a puppy. And in (38c) the child described is not a tennis umpire. 
+In fact, the whole setting is not a tennis setting, but it describes the settting of a play rehearsal by childeren,
+with the 'stage director' being physically located above her caste. That is, she does not literally have a tennis umpires's 
+advantage of height but only metaphorically -like a tennis umpire. (p, 95-96). 
+
+Note also that these metaphorical genitives can often be found in ellipitical constructions (p,96).
+
+In all these constructions the head of the genitive construction is omitted and refers back to a previously mentioned
+noun. This indicates taht such metaphorical genitives are phrases and not words. In many cases it is not clear whether the 
+initial article (usually the indefinet article) belongs to the dependent ofr to the whole genitive NP; however, examples (39a and c)
+show that (at least in these case) the singualr articcle goes with the (singular) dependent and not whth the (plural) head. 
+That is, structurally these genitives behave like determiner genitives. So, what -if anything - justifies their 
+classification as descriptive genitives?
+
+Note that in all the exampes avove the dependent is very clearly not specific. In fact, it cannot be, since the whole 
+possessive NP is not specific -as said, it serves as teh vehicle to transport a certain image into the (specific) context.
+Semantically, therefore, these construction are like descriptive genitives. They do not have the functin of a typical determiner, i.e. the referential
+anchoring of a referent, since the whole possessive NP as such is not specific. Rather, they evoke a certain typicl property 
+(hence, they are akin to what Strauss, 2004, calls 'propert-denoting possessives') (p, 96). 
+
+Under this view, we may regard these metaphorical uses of genitives as a type of determiner genitive operation in a 'subordinate mental space',
+facilitatin the identificaton of the referent of the (fictional) source domain. In this scenario we would first construe teh image
+of a fictioanl referent, i.e. a puppy, and then connect it to its eyelashes.. In this case we might argue that within this 
+fictional context, i.e. this subordinate mental space, a referent exists. That is, the dependent is specific in some irreal, 
+fictious world, but clearly unspecific in the  'real' world of discourse. Alternatively, however, we may also view them as a special case of 
+classifying genitive which is already akin to -but not identical with -determiner genitives. Under this view, then, 
+the unspecific dependent would not help to identify a (fictional) referent but a property. In this scenario, we construe
+eyelashes that are typical of puppies (in general), resulting in a nonsepecific interpretaion of the dependent. 
+Emperically, it is very difficult to decide which of the two conceptualization routes language users take (and see also
+section 4.1. on such constructional ambiguity). In any case, such metaphorical uses are very common. Not surprisngly, they are 
+most often found in fictional texts, such as novels, where metaphor is a common device to get across certain imaginative
+images or ideas. Metaphorical genitives are productive in the same way that determiner genitives ar, since they are modelled on them (p, 96-97)
+
+
+3.3. Generic genitives
+
+So far, we have only looked at the specificity of the dependent as a typical property distingushing determiner and 
+descriptive genitives. Under this view, the depedent in a descriptive genitive is unspecific in its naming function and 
+in tis comparing function, while it is specific in a determiner genitiv. However, specificity alone cannot account
+for all the referential properties genitive-marked dependents can have in English (Afaan Oromoo???). In this section I argue that it is important 
+to distinguis,, within the calass of nonspecific dependents, nonreferring dependents from referring (generic) dependents.
+
+Nonspecificity and genericity are often treated alike, but they are different notions with different properties. While specificity
+is a notion used to capture the referential properties of indefinite NPs, 'generic noun phrases are those in which 
+reference is made to an entire class' (C.Lyons, 1999:179). While specificity is a term usually only applied to indefinet
+NPs, generic NPs can also be expressed by definite NPs (The lion is a dangerous animal). Genericity is a concept that 
+can apply to both sentences and NPs. On the NP level, generic NPs have been considered as 'kind-referring' NPs by Krifka et al. (19995), 
+as opposed to 'object-referring' NPs, which denote a specific object/individual. A crucial difference between generic
+and nonspecific entities then is taht generics refer (to kinds), while nongeneric, nonspecific NPs don not refer at all.
+
+Now, how does all this relate to desriptive genitives? In (41) the dependent (a testator) is clearly not referring to 
+a specific testator. However, it does refer, as is evident from the susequent anaphor his which refers back to the 
+dependent(a testator). In contrast to determiner genitives this is not reference to a specific testator but referne to the 
+kind 'testaror', i.e. the dependent is 'kind-referring', i.e. generic.
+
+(41) Under family-provision legislation a testator's moral responsibility to provide for his dependents had become 
+a legal obligation in 1938 (p, 98).
+
+In contrast to metaphorical genitives, these genitives are not used to compare a referent in terms of another referent
+(or the referent's properties) but to describe a specific referent by setting it in relation to its kind. Note again
+that in the examples in (42) there is a specific refernt in the context that matches the generic possessor, a woman
+in (42a) 'a thin woman's apology', and a man in (42b) 'a man's horrible, humiliting sobbing'. In all these cases the 
+possessor abstracts away from the specific individuals, transcending them as examplars of a kind. Sometimes, this affinity
+of a specific referent in the context to its kind is even makde explicit, in a kind of mocking way, as in (43), or 
+or as describing the kind first and then finally identifying the matching (and co-present) referent, as in (44). 
+
+(43). So. What you're about, MrC.Shepherd. You here as the hopeful answer to a maiden's prayers? ..,
+(44) He was wanting a woman with a woman's way and a woman's knowledge, one who'd be as necessary to him as he was
+her. And you're that kind of woman, Val. ...(p, 98).
+
+There are other cases where the whole context is generic, and where therefore no potential specific referent is co-present
+and hence no ambiguity between the modes of speaking arises; example (45a) a woman's fear of breats cancer, (45b)
+a reader's respect, (45c) a woman's thought ... (p, 98).
+
+In all these examples the genitive NP receives a generic interpretation via the overall generic 'scripts' or 'frames'
+of the contexts ... That is, the overall context is generic and it is because of this overall generic setting that 
+the genitive therein is generic, too. However, withn this generic context the abstract refernts get individualized. 
+
+Note that we can also find generic dependents which are definite, while it was typical of the metaphorical genitives
+discussed in in secion 3.2. to have indefinete dependents. In fact, teh definite singual is often regarded as teh 
+prototypical generic expression ...
+
+In the examples in (46), 'the bad child's impulse to cry, the oversleepers's panicked sense of having fallen behind, 
+the optimistic Victorian's deep faith in progresss' ...the definite dependent is not specific but kind-referring;
+example (47) 'And he could do noting about his complexion, swarthier than the average Englishman's' illustrates that
+such generic definite dependents can also occur in ellipitic construction (p, 99). 
+
+Like metaphorical genitives, generic genitives behave structurally like determiner genitives, but semantically like
+descriptive genitives (with respect to their nonspecific dependent). Like metaphorical genitives, generic genitives are
+as productive as determiner genitives, as every individualized referent can be conceived of as a representaitve of its kind.
+(p,99). 
+
+
+As shown in the above examples (11) describes second degree, (12)  grade and (13) position. 
+
+
+Biiroo
+Biiroo Misoomaa
+Biiroo Misooma Qabeenyaa
+Biiroo Misooma Qabeenya Bishaaniifi Inarjii Oromiyaa
+
+Biiroo Barnootaa
+Biiroo Barnoota Eegumsa Fayyaa
+Biiroo Barnootaa Eegumsa Fayyaa Oromiyaa
+
+The Flexibility of genitive in Afaan Oromoo
+ Example                           Signaling
+koomee durba amuruu               'a physical attribute'
+obboleessa koo isa hangafa        'a blood relationship'
+abbaa manaa Uumee                'a non-blood relationship'
+alaqaa barreessituu              'a hierarchical relationship'
+hiriyaa barataa                  'a social relationship'
+garee Biiftuu                    'membership'
+beeksisa dhaabaa                 'performance'
+mana Jaalataa                    'ownership'
+gadda uummataa                   'emotional state'
+ergaa abbaashee                  'origin'
+kitaaba abbaashee isa jalqabaa   'human creation'
+dhimma biyyaa                   'topic'
+dhibee namichaa                'suffering/undergoing'
+meeshaa manaa                  'containing'
+huccuu bardheengaddaa          'the time of'
+foddaa gamoo                   'constituent part
+charjerii komputeraa           'associated part'
+madda odeeffannoo              'cause'
+miidhaa waraanaa               'result'
+
+
+The genitive determiner and pronoun system in Afaan Oromoo:
+
+Person, Gender, Number           Possessive Determiner             Possessive Pronoun
+1st person singular
+(all genders)                    koo (kitaabakoo)                       koo (kun kooti)
+
+1st person plural
+(all genders)                    keenya (kitaabakeenya)                keenya (kun keenyadha)
+
+2nd person singuar
+(all genders)                   kee (kitaaba kee)                     kee (kun  kitaabakeeti)
+
+2nd person plural
+(all genders)                  keessan (kitaaba keessan)              keessan (kun kitaaba keessanidha)
+
+3rd person singular
+masculine
+(all dialects                 isaa (ktaabasaa)                        isaa (kun kitaabasaati)
+
+3rd person singular
+feminine
+(all dialects)             ishee (kitaabashee)                       ishee (kun kitaabashee)
+
+3rd person plural
+all genders               isaanii (kitaabasaanii)                    isaanii (kun kitaabasaaniiti)
+
+3rd person singular
+neuter                    ---------                                 ----------------
+
+
+
+Tafarii Baqqalaafi Waaqgaarii Dullumee “To’annaa Dambileefi Qajeelfamoota Bakka Bu’insaan Ba’anii: Haala Qabatamaa Oromiyaa” Joornaaliii Seeraa Oromiyaa (Jiil.8, Lak.1, 2011)
+
+Gobena, W. O., Hagos, D., & Meyer, R. (2019). The verb k’ab-in Oromo. ZENA-LISSAN (Journal of Academy of Ethiopian Languages and Cultures), 28(1), 102-131.
+Owens, J. (1985). A grammar of Harar Oromo (Northeastern ethiopia) (Vol. 4). Buske.
+Gragg, G. (1976). Oromo of Wellegga. The non-Semitic languages of Ethiopia, 166-195.
+Kebede, F. B. (2014). Dissimilation in Oromo Phonology. International Journal of Innovative Research & Development, 13(13), 187-196.
+Greenlee, J. H. (1950). The Genitive Case in the New Testament. The Bible Translator, 1(2), 68-70.
