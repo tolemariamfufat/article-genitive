@@ -18,18 +18,18 @@ house' (Gragg, 1976:183). In Meca dialect the pronoun kan is used for both mascu
 shows masculine while tan is used for feminine gender. For example, mana tan ishee 'her house'. 
 (5) Genitves of genitives which are not final genitives are in absolute form (Owens, 1985:104). For example, 
 
-a. mana namaa 'a man's house'
-b. mana nama Sudaan 'a sudanese house'
+1a. mana namaa 'a man's house'
+1b. mana nama Sudaan 'a sudanese house'
 
-The interpretation of Afaan Oromoo genitive construction where two nouns are involved is straightforward; but, if more than two nouns are involved 
+The interpretation of Afaan Oromoo genitive construction is clear if two nouns are involved; but, if more than two nouns are involved
 ambiguities arise. This means that if a genitive construction is 
-formed by three nouns, the second noun can be interpreted either as possessor (concerning the preceding noun) or as the possessed noun (concerning the 
+formed by three nouns, the second noun can be interpreted either as possessor (concerning the preceding noun) or as the possessed noun (concerning the
 following noun). I hypothesize that a genitive construction that involves more than two nouns is a borrowed instance that lacks an established phrasal 
 pattern. These ambiguities are the source of public arguments. In the first part of this paper, I shall discuss problem areas of the topic by citing 
 examples from social media. Moreover, I shall discuss more complex examples of Afaan Oromoo genitive constructions by citing sample MA thesis titles. 
 In the second part, I shall discuss literature reviews on Afaan Oromoo genitive construction. The third part proposes solutions and concludes the paper. 
 
-There are  5 types of genitive construction. These are possessive, subjective, source, objective and descritptive 
+There are  5 types of genitive construction. These are possessive, subjective, source, objective and descriptive genitive.
 (https://www.eltconcourse.com/training/inservice/lexicogrammar/genitive.html). 
 
 
@@ -37,7 +37,7 @@ Gebregziabher, K. (2012). The alienable-inalienable asymmetry: Evidence from Tig
 In Selected Proceedings of the 42nd Annual Conference on African Linguistics (pp. 161-182).
 
 Genitive construction can be classified into two main categories; namely, possessive genitive and descriptive
-genitive constructions. Possessive genitives are further classifed into two main categries; these are alienable possession (ALP)
+genitive constructions. Possessive genitives are further classified into two main categories; these are alienable possession (ALP)
 and inalienable possession (IAP). ALP and IAP are mainly differentiated on the bases 
 of their corresponding semantic relationships. IAP forms a fixed semantic relationship between the possessor and the 
 possessee (Gebregziabher, 2012: 161). For example,
@@ -49,10 +49,10 @@ is marked in five ways:
 (2) By lengthening the short final vowel of the possessor;  
 (3) By adding long vowel -ii to a possessor ending in consonant;  
 (4) By putting the pronoun kan/to between the head and the dependant (possessor) nouns;   
-(5) By applying dissimilation to genitves of genitives;
+(5) By applying dissimilation to genitive of genitives;
 
 
-The genitive case is often treated as possessive case. But all issues concening genitive case are not 
+The genitive case is often treated as possessive case. But all issues concerning genitive case are not
 explainable interms of possession. For example,
 
 1a. aarii-n   nam-icha-a     kolfa     dubartii   sana-af qab-u   guddaa-dha.
