@@ -2,7 +2,14 @@
 #+Author: Tolemariam Fufa Teso, department of Oromo language, literature and folklore, AAU
 
 #+Subject: linguistics
-
+| no | Name                 |   | Role      |
+|----+----------------------+---+-----------|
+|  1 | Tolemariam Fufa      |   | professor |
+|----+----------------------+---+-----------|
+|  2 | Estifanos Tolemariam |   | student   |
+|----+----------------------+---+-----------|
+|  3 | Agaredech Jemaneh    |   | professor |
+|----+----------------------+---+-----------|
 
 * Introduction
 
